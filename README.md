@@ -28,7 +28,3 @@ By training a linear regression model on a small dataset, the system can estimat
 
 ---
 
-## 💻 How to Run the Project
-1. Download or clone this repository:  
-   ```bash
-   git clone https://github.com/RoshiniSelwyn/House-Price-Prediction.git
